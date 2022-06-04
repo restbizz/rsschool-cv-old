@@ -9,7 +9,7 @@ Phone:+79055807404
 ## About me
 My goal is to start a career in IT as a junior front-end developer.
 I'm marketing and PR specialist and i'm interested in design.
-## My skills in IT:
+## My skills in IT: 0
 ## Code exaple: 
 1.def multiply(a, b): 2.  return(a * b)
 ## My Education:
