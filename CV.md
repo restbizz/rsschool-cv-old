@@ -14,4 +14,6 @@ Markdown, CSS, HTML, JS
 ## My education
 Belorussian State University
 ## My languages
-English level is B2. I learned it at school and continue to develop in practice.
+English - level B2. I learned it at school and continue to develop in practice.
+French - level A2.
+Italian - level A2.
